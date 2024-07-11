@@ -11,8 +11,13 @@ A sleek and responsive weather application built with React and TypeScript, util
 - Responsive design for various screen sizes
 
 ## Screenshots
+<img width="1440" alt="Screenshot 2024-07-11 at 3 09 30 AM" src="https://github.com/CodePro-ABridges/Sun-Times/assets/78990603/72d1f87a-bb67-424c-b6f4-786b081255e9">
 
 ## Demo Video
+
+
+https://github.com/CodePro-ABridges/Sun-Times/assets/78990603/b5cfd5cc-d964-4966-86e4-c9e1d7963a1c
+
 
 ## Technologies Used
 
