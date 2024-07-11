@@ -38,7 +38,7 @@ https://github.com/CodePro-ABridges/Sun-Times/assets/78990603/b5cfd5cc-d964-4966
 
 1. Clone the repository:
 
-https://github.com/CodePro-ABridges/Sun-Times.git
+  git clone https://github.com/CodePro-ABridges/Sun-Times.git
 
 2. Navigate to the project directory:
 
