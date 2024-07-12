@@ -10,6 +10,9 @@ A sleek and responsive weather application built with React and TypeScript, util
 - Geolocation-based weather on initial load
 - Responsive design for various screen sizes
 
+## Deployed App
+https://sun-times.netlify.app/
+
 ## Screenshots
 
 <img width="1440" alt="Screenshot 2024-07-11 at 3 09 30 AM" src="https://github.com/CodePro-ABridges/Sun-Times/assets/78990603/72d1f87a-bb67-424c-b6f4-786b081255e9">
