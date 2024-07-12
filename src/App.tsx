@@ -1,4 +1,3 @@
-import { useState } from "react";
 import DisplayWeather from "../src/components/RenderWeather/DisplayWeather.tsx";
 import "./App.css";
 
